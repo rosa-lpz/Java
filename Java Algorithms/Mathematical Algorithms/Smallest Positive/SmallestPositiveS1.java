@@ -1,3 +1,5 @@
+// Smalles Positive Number - Solution 1
+
 import java.util.Arrays;
 
 public class SmallestPositiveS1 {

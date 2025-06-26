@@ -1,22 +1,18 @@
 # Java
 
 
+## Content
+### Java Algorithms
+**Mathematical Algorithms**
+* Smallest Positive [Link](https://github.com/rosa-lpz/Java/tree/main/Java%20Algorithms/Mathematical%20Algorithms/Smallest%20Positive)
+  
+### Object Oriented Programming
 
-## Object Oriented Programming
+* Abstraction [Link](https://github.com/rosa-lpz/Java/tree/main/Java%20OOP/Abstraction)
+* Inhteritance [Link](https://github.com/rosa-lpz/Java/tree/main/Java%20OOP/%20Inheritance)
+* Polymorphism [Link](https://github.com/rosa-lpz/Java/tree/main/Java%20OOP/Polymorphism)
+* Encapsulation [Link](https://github.com/rosa-lpz/Java/tree/main/Java%20OOP/Encapsulation)
 
-### Abstraction
-* https://github.com/rosa-lpz/Java/blob/main/OOP/Abstraction/1.%20Abstraction.md
-
-### Inhteritance
-* https://github.com/rosa-lpz/Java/blob/main/OOP/%20Inheritance/1.%20Inheritance.md
-
-### Polymorphism
-* https://github.com/rosa-lpz/Java/blob/main/OOP/Polymorphism/1.%20Java%20Polymorphism.md
-
-### Encapsulation
-* https://github.com/rosa-lpz/Java/blob/main/OOP/Encapsulation/Java%20Encapsulation.md
-
-## Java Algorithms
 
 
 
